@@ -1,0 +1,27 @@
+Filename	ImgHeight	ImgWidth	Datasize	Tx
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000001.jpg	756	1344	88221	1.747554002
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000002.jpg	756	1344	87787	.742132927
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000003.jpg	756	1344	87503	.792194375
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000004.jpg	756	1344	86774	.767896375
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000005.jpg	756	1344	85889	.683767243
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000006.jpg	756	1344	86245	.789582098
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000007.jpg	756	1344	86619	.727160488
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000008.jpg	756	1344	86704	.714082709
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000009.jpg	756	1344	86269	.735449746
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000010.jpg	756	1344	86045	.735837577
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000011.jpg	756	1344	86286	.680187778
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000012.jpg	756	1344	85853	.766392294
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000013.jpg	756	1344	85569	1.223670074
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000014.jpg	756	1344	85785	.807614485
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000015.jpg	756	1344	85713	.729875986
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000016.jpg	756	1344	85544	.724665062
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000017.jpg	756	1344	85319	.710432872
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000018.jpg	756	1344	86461	.689774437
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000019.jpg	756	1344	85054	.711089387
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000020.jpg	756	1344	82138	.718637327
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000021.jpg	756	1344	85642	.709991041
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000022.jpg	756	1344	87977	.729441529
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000023.jpg	756	1344	88030	.666780329
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000024.jpg	756	1344	89272	.691703460
+/home/caesar/VisDrone2019-VID-train/sequences/uav0000013_01073_v/0000025.jpg	756	1344	89321	.729697066
+
