@@ -1,0 +1,62 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 Filename        ImgHeight       ImgWidth        Datasize        Tx\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000001.jpg        756     1344      137138        .790204000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000002.jpg        756     1344      136692        .641833000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000003.jpg        756     1344      135942        .647844000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000004.jpg        756     1344      135669        .775082000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000005.jpg        756     1344      136316        .732022000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000006.jpg        756     1344      137498        .803322000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000007.jpg        756     1344      138585        .687290000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000008.jpg        756     1344      140229        .766239000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000009.jpg        756     1344      142329        .893973000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000010.jpg        756     1344      142419        .702463000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000011.jpg        756     1344      142286        .658424000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000012.jpg        756     1344      142783        .682144000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000013.jpg        756     1344      142257        .679802000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000014.jpg        756     1344      142035        1.145266000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000015.jpg        756     1344      141978        .660621000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000016.jpg        756     1344      142208        1.519513000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000017.jpg        756     1344      141911        .789938000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000018.jpg        756     1344      142449        .906636000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000019.jpg        756     1344      142765        .694342000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000020.jpg        756     1344      142690        .708125000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000021.jpg        756     1344      142607        .897671000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000022.jpg        756     1344      142994        .776318000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000023.jpg        756     1344      142932        .833290000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000024.jpg        756     1344      142440        .797356000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000025.jpg        756     1344      141514        1.583384000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000026.jpg        756     1344      141308        .632136000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000027.jpg        756     1344      141180        .722191000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000028.jpg        756     1344      140714        .962736000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000029.jpg        756     1344      138369        .706506000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000030.jpg        756     1344      137159        .782815000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000031.jpg        756     1344      135965        .665718000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000032.jpg        756     1344      134171        .685151000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000033.jpg        756     1344      132510        .674240000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000034.jpg        756     1344      131560        .697145000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000035.jpg        756     1344      130687        .669852000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000036.jpg        756     1344      130586        .708352000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000037.jpg        756     1344      130714        .753837000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000038.jpg        756     1344      130987        .714182000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000039.jpg        756     1344      132587        1.058781000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000040.jpg        756     1344      133459        .613023000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000041.jpg        756     1344      133175        .661952000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000042.jpg        756     1344      133236        .682349000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000043.jpg        756     1344      133319        .708822000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000044.jpg        756     1344      133404        .623400000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000045.jpg        756     1344      133132        .604055000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000046.jpg        756     1344      132886        .690948000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000047.jpg        756     1344      132055        .680134000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000048.jpg        756     1344      132294        .667830000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000049.jpg        756     1344      131038        .709175000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000050.jpg        756     1344      130221        .665172000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000051.jpg        756     1344      130232        .676357000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000052.jpg        756     1344      129994        .683329000\
+/Users/adityavandanapu/Downloads/VisDrone2019-VID-train/sequences/uav0000084_00000_v/0000053.jpg        756     1344      129560        .691842000\
+}
