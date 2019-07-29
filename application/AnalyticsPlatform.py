@@ -1,5 +1,6 @@
 # Analytics Sandbox for evaluating various machine learning models on KDN data
 # Author: Jon Patman | 2017
+# Additonal Modifications: Aditya Vandanapu
 
 from __future__ import division
 import time
@@ -46,15 +47,15 @@ expType = sys.argv[1]
 
 # Transmission dataset is used
 if expType == 'transmission':
-    inputFeatures = pd.DataFrame(pd.read_csv('data/TxExp_Master.csv'), columns=['Transmission_BW (bps)','ImgHeight','ImgWidth','Datasize (bits)','Tx_calc'])
-    targetFeatures = pd.DataFrame(pd.read_csv('data/TxExp_Master.csv'), columns=['Link_Utilization'])
+    inputFeatures = pd.DataFrame(pd.read_csv('data/TxExp1_Master.csv'), columns=['Transmission_BW (kbps)','ImgHeight','ImgWidth', 'Datasize','Datasize (bits)','Tx_calc'])
+    targetFeatures = pd.DataFrame(pd.read_csv('data/TxExp1_Master.csv'), columns=['Tx_true'])
     X = inputFeatures
-    y = targetFeatures['Link_Utilization']
+    y = targetFeatures['Tx_true']
     print('\nBenchmarking ML models on the',expType,'dataset...\n')
 # Processing dataset is used
 elif expType == 'processing':
-    inputFeatures = pd.DataFrame(pd.read_csv('data/TpExp_Master.csv'), columns=['Spec Type','CPU Load (%)','imgHeight','imgWidth','datasize'])
-    targetFeatures = pd.DataFrame(pd.read_csv('data/TpExp_Master.csv'), columns=['T_p'])
+    inputFeatures = pd.DataFrame(pd.read_csv('data/total_processing.csv'), columns=['imgWidth','imgHeight', 'library_loading_time', 'F1:pre-processing(s)', 'F2:object_detection(s)', 'F3:face_detection(s)', 'F4:face_DB_storage(s)', 'people_detected', 'faces_detected'])
+    targetFeatures = pd.DataFrame(pd.read_csv('data/total_processing.csv'), columns=['T_p'])
     X = inputFeatures
     y = targetFeatures['T_p']
     print('\nBenchmarking ML models on the', expType, 'dataset...\n')
