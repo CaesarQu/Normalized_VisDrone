@@ -4,7 +4,7 @@ This is the main repository for REU application on drone offloading and more
 ## application 
 Application Folder consists of the analytics platform, transmission and processing bash scripts, setup script for correct testing enviornment, and graphs of our results
 
-AnalyticsPlatform.py consists of four Machine Learning models to predict processing and transmission times on the various models. To run the code, type "python3 AnalyticsPlatform.py [transmission/processing] [your .csv file]" in your terminal. Make sure to midfy in the code the name of your .csv file and where it was located.
+AnalyticsPlatform.py consists of four Machine Learning models to predict processing and transmission times on the various models. To run the code, type "python3 AnalyticsPlatform.py [transmission/processing] [your .csv file]" in your terminal. Make sure to modfy in the code the name of your .csv file and where it was located.
 
 TxExp.sh was used to find the transmission times of our data
 
